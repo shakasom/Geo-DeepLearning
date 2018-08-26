@@ -8,7 +8,8 @@ availabe is overwelmingly large. This repository will highlight recent developme
 
 
 ## Papers
-RSI-CB: A Large Scale Remote Sensing Image Classification Benchmark via Crowdsource Data https://arxiv.org/abs/1705.10450 
+1. RSI-CB: A Large Scale Remote Sensing Image Classification Benchmark via Crowdsource Data(June 2017)  https://arxiv.org/abs/1705.10450 
+2. EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification (August 2017) https://arxiv.org/abs/1709.00029
 ## Datasets
 
 ## Tutorials

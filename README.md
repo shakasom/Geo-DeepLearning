@@ -8,7 +8,7 @@ availabe is overwelmingly large. This repository will highlight recent developme
 
 
 ## Papers
-
+RSI-CB: A Large Scale Remote Sensing Image Classification Benchmark via Crowdsource Data https://arxiv.org/abs/1705.10450 
 ## Datasets
 
 ## Tutorials
